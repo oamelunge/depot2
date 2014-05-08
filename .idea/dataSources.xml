@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="27871218">
+  <component name="DataSourceManagerImpl" format="xml" hash="1694674531">
     <data-source source="LOCAL" name="Rails depot: development" uuid="0415c02d-9daf-40eb-a266-074bda815c83">
       <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:C:\Users\oamelunge\RubymineProjects\depot2\db\development.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails depot: test" uuid="a6abc93d-5744-40ad-833f-1f35bd26beb1">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\oamelunge\RubymineProjects\depot2\db\test.sqlite3</jdbc-url>
       <libraries />
     </data-source>
   </component>
