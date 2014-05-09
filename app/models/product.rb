@@ -11,4 +11,4 @@ class Product < ActiveRecord::Base
     Product.order(:updated_at).last
   end
 end
- the following untracked working tree file would be overwritten by merge
+
