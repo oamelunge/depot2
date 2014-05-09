@@ -7,3 +7,4 @@ class Product < ActiveRecord::Base
       message: 'must be a URL for GIF, JPG or PNG image.'
   }
 end
+ the following untracked working tree file would be overwritten by merge
